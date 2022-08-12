@@ -1,0 +1,6 @@
+[submodule "client"]
+	path = client
+	url = https://github.com/ClementG60/mern-project
+[submodule "mern-project"]
+	path = mern-project
+	url = https://github.com/ClementG60/mern-project
